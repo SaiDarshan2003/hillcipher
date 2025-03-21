@@ -1,9 +1,9 @@
-EX.NO:3.Hill Cipher
+## EX.NO:3.Hill Cipher
 
-AIM:
+## AIM:
 To develop a simple C program to implement Hill Cipher.
 
-DESIGN STEPS:
+## DESIGN STEPS:
 Step 1:
 Design of Hill Cipher algorithnm
 
@@ -13,7 +13,7 @@ Implementation using C or pyhton code
 Step 3:
 Testing algorithm with different key values. 
 
-PROGRAM:
+## PROGRAM:
 ```
 #include <stdio.h>
 #include <string.h>
@@ -96,9 +96,9 @@ int main() {
 
 ```
 
-OUTPUT:
+## OUTPUT:
 ![image](https://github.com/user-attachments/assets/28478e15-1223-4176-b948-653b076e7be8)
 
 
-RESULT:
+## RESULT:
 The program is executed successfully
